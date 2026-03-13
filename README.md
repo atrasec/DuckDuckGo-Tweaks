@@ -1,8 +1,8 @@
 # DuckDuckGo Tweaks
 DuckDuckGo Tweaks is a customizable userstyle that improves DuckDuckGo. It removes ads, promotions, annoyances, and other visual distractions. 🦆
 
-## [Install with Stylus via UserStyles.world](https://userstyles.world/style/17992/duckduckgo-tweaks-clean-adblock) <a href="https://userstyles.world/style/17992/duckduckgo-tweaks-clean-adblock">
-<img src="https://img.shields.io/badge/Install%20from-userstyles.world-116b59.svg?longCache=true&style=flat]"></a>
+## [Install with Stylus via UserStyles.world](https://userstyles.world/style/17992/duckduckgo-tweaks)
+<a href="https://userstyles.world/style/17992/duckduckgo-tweaks"><img src="https://img.shields.io/badge/Install%20from-userstyles.world-116b59.svg?longCache=true&style=flat]"></a>
 
 ## Features
 ### Removes:
